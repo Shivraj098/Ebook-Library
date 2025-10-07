@@ -4,7 +4,7 @@
   "description": "This is an E book",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.ts"
+    "dev": "nodemon src/server.ts"
   },
   "keywords": [
     "API",
@@ -25,5 +25,10 @@
   },
   "dependencies": {
     "express": "^5.1.0"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "\\"
   }
 }
